@@ -91,10 +91,10 @@ y_pred_rnn = model_rnn.predict(X_test)
 
 ## Computational Results
 First, the Lorenz System is evaluated with fixed parameters and radom data set. The result at rho = 28 is:
-![r28]()
+![r28](https://github.com/Mmmo-C/Lorenz-System-Dynamics-Forecasting/blob/main/results/eg1.png)
 
 As the system is trained with a feed-forward nueral network with traning data set rho = [10, 28, 40], the forecasting on rho = [17, 35] is:
-![result]()
+![result](https://github.com/Mmmo-C/Lorenz-System-Dynamics-Forecasting/blob/main/results/lz.png)
 
 The leas square error of LSTM and RNN system using the same test data set is:
 ```
