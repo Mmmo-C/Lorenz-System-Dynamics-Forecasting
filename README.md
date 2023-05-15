@@ -1,4 +1,4 @@
-# Lorenz-System-Dynamics-Forecasting
+# Lorenz System Dynamics Forecasting
 Implementation of different nueral network structures on Lorenz System.
 
 </p>
